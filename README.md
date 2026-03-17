@@ -30,7 +30,8 @@ Future goals include:
 - animations
 - unique creature sounds
 - a catchy background music
-- an enhanced combat system
+- an enhanced combat system including player based creature movement
+  (tracking the position of the player to move the creature on the screen) 
 
 ---
 
@@ -73,7 +74,6 @@ The Project is built in Unity and uses:
 ### Long-Term
 - Replaced AI textures
 - Enhanced combat system
-- and more...
 
 
 ---
